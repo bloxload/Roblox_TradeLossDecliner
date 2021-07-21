@@ -1,4 +1,4 @@
-# AutoLossDecliner
+# Roblox_TradeLossDecliner
 Automatically declines trades set at a threshold, uses 1 ratio.
 
 ## How to run
