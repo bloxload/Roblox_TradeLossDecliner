@@ -5,10 +5,19 @@ Automatically declines trades set at a threshold, uses 1 ratio.
 
 You need Python installed, preferably the lastest version.
 
-Run it by using 
+Open command prompt and navigate to the folder.
+
+Run it with 
 ```
 py main.py
 ```
+
+## Errors
+
+`KeyError: 'data'`
+`line 52, in <module>`
+
+Your ROBLOSECURITY is invalid.
 
 ## Functionality
 
